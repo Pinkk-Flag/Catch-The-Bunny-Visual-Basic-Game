@@ -1,6 +1,6 @@
 # Catch-The-Bunny-Visual-Basic-Game
 
-Click 'code' and then download as zip.
+Click 'code' and then download as zip. It is the GREEN button.
 
 Then unzip the file, and open the .sln file.
 
